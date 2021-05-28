@@ -1,5 +1,5 @@
 def avito(req):
-    return "https://www.avito.ru/rostov-na-donu/bytovaya_elektronika?q="+req+"&s=104"
+    return "https://www.avito.ru/chelyabinsk/bytovaya_elektronika?q="+req+"&s=104"
 
 def dns(req, tt = ""):
     return  "https://www.dns-shop.ru/search/?q="+req+"&stock=hard" + tt
